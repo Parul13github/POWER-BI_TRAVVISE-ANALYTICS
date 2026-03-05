@@ -185,10 +185,10 @@ These filters allow deeper exploration and help users focus on specific segments
 # Dashboard Preview
 
 ### Executive View
-(Add screenshot here)
+https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics.PNG
 
 ### Company Performance
-(Add screenshot here)
+
 
 ### Ticket Count View
 (Add screenshot here)
