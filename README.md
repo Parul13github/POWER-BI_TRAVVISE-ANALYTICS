@@ -191,7 +191,7 @@ https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_
 https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG
 
 ### Ticket Count View
-
+https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_TicketCountView.PNG
 
 ---
 
