@@ -21,7 +21,7 @@ This helps travel management teams and business stakeholders identify key opport
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Power BI** – Data visualization and dashboard development  
 - **SQL** – Data extraction from the database  
@@ -31,7 +31,7 @@ This helps travel management teams and business stakeholders identify key opport
 
 ---
 
-## 🗄️ Data Source
+## Data Source
 
 The dataset used in this project is sourced from a **SQL database containing flight booking transaction data**.
 
@@ -188,14 +188,14 @@ These filters allow deeper exploration and help users focus on specific segments
 https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics.PNG
 
 ### Company Performance
-
+https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG
 
 ### Ticket Count View
-(Add screenshot here)
+
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - `Travvise_Cocolidated_Analytics.pbit` – Power BI dashboard file   
 - `Travvise_Analytics`, 'Travvise_Analytics_Company Performance', 'Travvise_Analytics_TicketCountView' – Images used for preview  
