@@ -197,4 +197,4 @@ https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_
 
 ## Project Files
 
-- `Travvise_Cocolidated_Analytics.pbit` – Power BI dashboard file
+- `Travvise_Consolidated_Analytics.pbit` – Power BI dashboard file
