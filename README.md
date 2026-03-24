@@ -188,7 +188,8 @@ These filters allow deeper exploration and help users focus on specific segments
 [Travvise_Analytics.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics.PNG)
 
 ### Company Performance
-[https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG)
+[Travvise_Analytics_Company Performance.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG)
+
 
 ### Ticket Count View
 https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_TicketCountView.PNG
