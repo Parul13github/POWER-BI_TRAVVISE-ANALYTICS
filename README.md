@@ -185,14 +185,14 @@ These filters allow deeper exploration and help users focus on specific segments
 # Dashboard Preview
 
 ### Executive View
-[Travvise_Analytics.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics.PNG)
+[Travvise_Analytics-Executive View.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics.PNG)
 
 ### Company Performance
-[Travvise_Analytics_Company Performance.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG)
+[Travvise_Analytics-Company Performance.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG)
 
 
 ### Ticket Count View
-https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_TicketCountView.PNG
+[Travvise_Analytics-TicketCountView.PNG](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_TicketCountView.PNG)
 
 ---
 
