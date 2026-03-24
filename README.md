@@ -185,7 +185,7 @@ These filters allow deeper exploration and help users focus on specific segments
 # Dashboard Preview
 
 ### Executive View
-https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics.PNG
+Travvise_Analytics.PNG
 
 ### Company Performance
 https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Analytics_Company%20Performance.PNG
