@@ -198,4 +198,4 @@ These filters allow deeper exploration and help users focus on specific segments
 
 ## Project Files
 
-- `Travvise_Consolidated_Analytics.pbit` – Power BI dashboard file
+- [`Travvise_Consolidated_Analytics.pbit`](https://github.com/Parul13github/POWER-BI_TRAVVISE-ANALYTICS/blob/main/Travvise_Consolidated_Analytics.pbit) – Power BI dashboard file
